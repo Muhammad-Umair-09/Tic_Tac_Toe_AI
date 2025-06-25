@@ -21,7 +21,7 @@ Features include:
 
 ## 📸 Screenshots
 
-![Screenshot](capture.png)
+![Screenshot](Capture.PNG)
 
 
 
